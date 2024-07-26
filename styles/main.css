@@ -170,7 +170,7 @@ main {
 }
 
 main .main-image {
-    background-image: url('./assets/images/illustration-article.svg');
+    background-image: url('../assets/images/illustration-article.svg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top 0 left -24px;
